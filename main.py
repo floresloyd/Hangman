@@ -3,7 +3,7 @@ from artbank import stages, logo
 from wordbank import word_list
 
 chosen_word = random.choice(word_list)
-lives = 10
+lives = 6
 game_over = False
 display = []
 used_letters = []
